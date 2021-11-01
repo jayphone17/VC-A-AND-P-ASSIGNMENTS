@@ -11,7 +11,6 @@ dst = cv2.cornerHarris(gray,2,3,0.04)
 dst = cv2.dilate(dst,None)
 image[dst>0.01*dst.max()]=[0,0,255]
 
-
 cv2.namedWindow("Original", 0)
 cv2.resizeWindow("Original" , 480, 640)
 
