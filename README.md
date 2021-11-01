@@ -22,3 +22,29 @@ ASSIGNMENTS OF VIDEO CONTENT ANALYSIS AND PRACTISE via OpenCV
 3 信号处理类的方法：灰度共生矩阵，Tamura纹理特征，自回归纹理特征，小波变换。
 
 4 傅里叶形状描述符，小波描述符等.
+
+# Some Results
+
+### 1 Harris
+
+<img src=".\Pics\Harris_result.png" alt="Harris_result" style="zoom:67%;" />
+
+### 2 Shi-Tmasi
+
+<img src=".\Pics\Shi-Tomasi_result.png" alt="Shi-Tomasi_result" style="zoom:67%;" />
+
+### 3 SIFT
+
+<img src=".\Pics\SIFT_result.png" alt="SIFT_result" style="zoom:67%;" />
+
+### 4 HoG
+
+<img src=".\Pics\Harris_result.png" alt="Harris_result" style="zoom:67%;" />
+
+### 5 Blob
+
+<img src=".\Pics\Blob_result.png" alt="Blob_result" style="zoom:67%;" />
+
+### 6 特征匹配
+
+<img src=".\Pics\特征匹配_result3.png" alt="特征匹配_result3" style="zoom: 67%;" />
