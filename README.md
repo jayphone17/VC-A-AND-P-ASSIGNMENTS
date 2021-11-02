@@ -52,7 +52,7 @@ ASSIGNMENTS OF VIDEO CONTENT ANALYSIS AND PRACTISE via OpenCV
 Laplacian算子采用二阶导数，其计算公式如下：(分别对x方向和y方向求二阶导数，并求和)
 ```
 
-​	![img](https://img2020.cnblogs.com/blog/1483773/202009/1483773-20200903223226475-943455462.png)
+![img](https://img2020.cnblogs.com/blog/1483773/202009/1483773-20200903223226475-943455462.png)
 
 ```
 其对应的Laplacian算子如下：
@@ -129,25 +129,25 @@ Marr-Hildreth边缘检测可以细分为三步：
 
 ### 7  Laplacian 
 
-![laplacian_result](C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\laplacian_result.png)
+<img src=".\Pics\laplacian_result.png" alt="DoG_result" style="zoom: 80%;" />
 
 ### 8 Laplacian优化
 
-![laplacian_result2](C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\laplacian_result2.png)
+<img src=".\Pics\laplacian_result2.png" alt="DoG_result" style="zoom: 80%;" />
 
 ### 9 LoG
 
-![LoG_result](C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\LoG_result.png)
+<img src=".\Pics\LoG_result.png" alt="DoG_result" style="zoom: 80%;" />
 
 ### 10 DoG
 
-<img src="C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\DoG_result.png" alt="DoG_result" style="zoom: 80%;" />
+<img src=".\Pics\DoG_result.png" alt="DoG_result" style="zoom: 80%;" />
 
 ### 11  ORB
 
-<img src="C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\orb_result.png" alt="orb_result" style="zoom: 67%;" />
+<img src=".\Pics\orb_result.png" alt="orb_result" style="zoom: 67%;" />
 
  ### 12  Marri Hildreth
 
-![Marri_Hildreth_result](C:\Users\JayphoneLin\Desktop\github-push-cache\VC-A-AND-P-ASSIGNMENTS\Pics\Marri_Hildreth_result.png)
+<img src=".\Pics\Marri_Hildreth_result.png" alt="orb_result" style="zoom: 67%;" />
 
