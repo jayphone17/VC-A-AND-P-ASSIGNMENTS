@@ -151,3 +151,14 @@ Marr-Hildreth边缘检测可以细分为三步：
 
 <img src=".\Pics\Marri_Hildreth_result.png" alt="orb_result" style="zoom: 67%;" />
 
+### 13 Canny
+
+<img src=".\Pics\canny_result1.png" alt="orb_result" style="zoom: 67%;" />
+
+### 14 Scharr
+
+<img src=".\Pics\Scharr_result.png" alt="orb_result" style="zoom: 67%;" />
+
+### 15 Sobel
+
+<img src=".\Pics\sobel_result2.png" alt="orb_result" style="zoom: 67%;" />
